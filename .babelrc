@@ -4,11 +4,10 @@
       "targets": {
         "chrome": 40,
         "safari": 6,
-        "ie": 10
+        "ie": 9
       },
       "debug": true,
-      "useBuiltIns": false,
-      "spec": false
+      "useBuiltIns": "usage"
     }]
   ]
 }
