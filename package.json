@@ -16,6 +16,7 @@
     "@babel/preset-env": "^7.14.8"
   },
   "dependencies": {
-    "core-js": "^3.15.2"
+    "core-js": "^3.15.2",
+    "lodash-es": "^4.17.21"
   }
 }
